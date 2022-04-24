@@ -1,0 +1,8 @@
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\Schoolsys.Form1.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\Schoolsys.Formularios.RegistrarEstudiante.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\Schoolsys.login.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\Schoolsys.Properties.Resources.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\Schoolsys\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache

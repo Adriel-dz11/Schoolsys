@@ -1,0 +1,5 @@
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaNegocio\obj\Debug\CapaNegocio.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaNegocio\obj\Debug\CapaNegocio.Properties.Resources.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaNegocio\obj\Debug\CapaNegocio.csproj.GenerateResource.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache

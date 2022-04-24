@@ -1,0 +1,5 @@
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaEntidad\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaEntidad\obj\Debug\CapaControlador.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaEntidad\obj\Debug\CapaEntidad.Properties.Resources.resources
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaEntidad\obj\Debug\CapaControlador.csproj.GenerateResource.cache
+C:\Users\adrie\Documents\GitHub\Schoolsys\CapaEntidad\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
